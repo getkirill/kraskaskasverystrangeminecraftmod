@@ -1,0 +1,328 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
+    },
+    {
+      "name": "Rubyrecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubyrecipe"
+    },
+    {
+      "name": "RubyAdvancementItsGlowing",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_advancement_its_glowing"
+    },
+    {
+      "name": "RasprodazhaNaAliExpress",
+      "type": "musicdisc",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rasprodazha_na_ali_express"
+    },
+    {
+      "name": "AliRecRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ali_rec_recipe"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "RubyPotion",
+      "type": "potion",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_potion"
+    },
+    {
+      "name": "RubyPotionPotionStartedapplied",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_potion_potion_startedapplied",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RubyPotionOnPotionActiveTick",
+      "type": "procedure",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_potion_on_potion_active_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RubyPotionPotionExpires",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_potion_potion_expires",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MegalovaniaMusicDisk",
+      "type": "musicdisc",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "megalovania_music_disk"
+    },
+    {
+      "name": "MegalovaniaMDRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "megalovania_md_recipe"
+    },
+    {
+      "name": "RubyToolPackPickaxe",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_tool_pack_pickaxe"
+    },
+    {
+      "name": "RubyToolPackAxe",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_tool_pack_axe"
+    },
+    {
+      "name": "RubyToolPackSword",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_tool_pack_sword"
+    },
+    {
+      "name": "RubyToolPackShovel",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_tool_pack_shovel"
+    },
+    {
+      "name": "RubyToolPackHoe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_tool_pack_hoe"
+    },
+    {
+      "name": "RubyToolPackPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_tool_pack_pickaxe_recipe"
+    },
+    {
+      "name": "RubyToolPackAxeRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_tool_pack_axe_recipe"
+    },
+    {
+      "name": "RubyToolPackSwordRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_tool_pack_sword_recipe"
+    },
+    {
+      "name": "RubyToolPackShovelRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_tool_pack_shovel_recipe"
+    },
+    {
+      "name": "RubyToolPackHoeRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_tool_pack_hoe_recipe"
+    },
+    {
+      "name": "RubyArmorArmor",
+      "type": "armor",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_armor"
+    },
+    {
+      "name": "RubyArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "RubyArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_armor_body_recipe"
+    },
+    {
+      "name": "RubyArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "RubyArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "rsprodazhanaalisound",
+      "file": "rasprodazha_na_aliekspriess_-_maksim_galkin",
+      "category": "record"
+    },
+    {
+      "name": "megalovania",
+      "file": "toby_fox_-_megalovania",
+      "category": "record"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.kraskaskas_mod.ruby_armor_armor_helmet": "RubyArmor Helmet",
+      "item.kraskaskas_mod.megalovania_music_disk": "Megalovania Music Disk",
+      "advancements.ruby_advancement_its_glowing.descr": "Get the ruby",
+      "item.kraskaskas_mod.megalovania_music_disk.desc": "toby fox - Megalovania",
+      "item.kraskaskas_mod.ruby_tool_pack_pickaxe": "RubyToolPack Pickaxe",
+      "item.kraskaskas_mod.ruby_tool_pack_sword": "RubyToolPack Sword",
+      "item.minecraft.lingering_potion.effect.ruby_potion": "Lingering Ruby Potion",
+      "item.kraskaskas_mod.ruby": "Ruby",
+      "block.kraskaskas_mod.ruby_ore": "Ruby Ore",
+      "item.minecraft.tipped_arrow.effect.ruby_potion": "Arrow of Ruby Potion",
+      "item.kraskaskas_mod.ruby_armor_armor_chestplate": "RubyArmor Chestplate",
+      "item.minecraft.splash_potion.effect.ruby_potion": "Splash Ruby Potion",
+      "item.kraskaskas_mod.ruby_tool_pack_hoe": "RubyToolPack Hoe",
+      "item.kraskaskas_mod.ruby_armor_armor_leggings": "RubyArmor Leggings",
+      "item.kraskaskas_mod.ruby_armor_armor_boots": "RubyArmor Boots",
+      "effect.ruby_potion": "Ruby Potion",
+      "item.kraskaskas_mod.ruby_tool_pack_shovel": "RubyToolPack Shovel",
+      "item.kraskaskas_mod.ruby_tool_pack_axe": "RubyToolPack Axe",
+      "item.kraskaskas_mod.rasprodazha_na_ali_express.desc": "Sale on AliExpress - Maksim Galkin (Rus)",
+      "item.minecraft.potion.effect.ruby_potion": "Ruby Potion",
+      "advancements.ruby_advancement_its_glowing.title": "Its Glowing",
+      "item.kraskaskas_mod.rasprodazha_na_ali_express": "Sale on AliExpress (Rus)"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "kraskaskas_mod",
+    "modName": "Kraskaska\u0027s Mod",
+    "version": "1.0.0",
+    "author": "alexe, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "com.kraskaska.mc.kraskaskasmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
