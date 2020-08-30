@@ -1,0 +1,19 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "rasprodazhanaalitexture",
+    "name": "Sale on AliExpress (Rus)",
+    "description": "Sale on AliExpress - Maksim Galkin (Rus)",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:rsprodazhanaalisound"
+    },
+    "specialInfo": [
+      "fuck"
+    ],
+    "hasGlow": true
+  }
+}

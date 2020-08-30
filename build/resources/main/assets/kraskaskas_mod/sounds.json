@@ -1,0 +1,20 @@
+{
+  "rsprodazhanaalisound": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "kraskaskas_mod:rasprodazha_na_aliekspriess_-_maksim_galkin",
+        "stream": true
+      }
+    ]
+  },
+  "megalovania": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "kraskaskas_mod:toby_fox_-_megalovania",
+        "stream": true
+      }
+    ]
+  }
+}

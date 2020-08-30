@@ -1,0 +1,30 @@
+{
+  "group": "kraskaskas_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "kraskaskas_mod:ruby"
+    },
+    "1": {
+      "item": "kraskaskas_mod:ruby"
+    },
+    "2": {
+      "item": "kraskaskas_mod:ruby"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "kraskaskas_mod:ruby_tool_pack_pickaxe",
+    "count": 1
+  }
+}

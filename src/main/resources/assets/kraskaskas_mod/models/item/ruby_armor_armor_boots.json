@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "kraskaskas_mod:items/rubyarmor_boots"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "kraskaskas_mod:items/rubytoolpack_shovel"
+  }
+}

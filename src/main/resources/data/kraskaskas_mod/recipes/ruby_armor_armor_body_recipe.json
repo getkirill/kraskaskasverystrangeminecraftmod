@@ -1,0 +1,39 @@
+{
+  "group": "kraskaskas_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kraskaskas_mod:ruby"
+    },
+    "2": {
+      "item": "kraskaskas_mod:ruby"
+    },
+    "3": {
+      "item": "kraskaskas_mod:ruby"
+    },
+    "4": {
+      "item": "kraskaskas_mod:ruby"
+    },
+    "5": {
+      "item": "kraskaskas_mod:ruby"
+    },
+    "6": {
+      "item": "kraskaskas_mod:ruby"
+    },
+    "7": {
+      "item": "kraskaskas_mod:ruby"
+    },
+    "8": {
+      "item": "kraskaskas_mod:ruby"
+    }
+  },
+  "result": {
+    "item": "kraskaskas_mod:ruby_armor_armor_chestplate",
+    "count": 1
+  }
+}

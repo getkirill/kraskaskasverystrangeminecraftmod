@@ -1,0 +1,19 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "megalovaniamusicdisk",
+    "name": "Megalovania Music Disk",
+    "description": "toby fox - Megalovania",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:megalovania"
+    },
+    "specialInfo": [
+      "You gonna have a bad time"
+    ],
+    "hasGlow": true
+  }
+}

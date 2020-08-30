@@ -1,0 +1,28 @@
+{
+  "_fv": 10,
+  "_type": "potion",
+  "definition": {
+    "name": "Ruby Potion",
+    "effectName": "Ruby Potion",
+    "icon": "rubypotion.png",
+    "color": {
+      "value": -65485,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "RubyPotionPotionStartedapplied"
+    },
+    "onActiveTick": {
+      "name": "RubyPotionOnPotionActiveTick"
+    },
+    "onExpired": {
+      "name": "RubyPotionPotionExpires"
+    }
+  }
+}

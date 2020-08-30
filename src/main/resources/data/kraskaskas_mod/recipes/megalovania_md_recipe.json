@@ -1,0 +1,16 @@
+{
+  "group": "kraskaskas_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:bone"
+    }
+  ],
+  "result": {
+    "item": "kraskaskas_mod:megalovania_music_disk",
+    "count": 1
+  }
+}

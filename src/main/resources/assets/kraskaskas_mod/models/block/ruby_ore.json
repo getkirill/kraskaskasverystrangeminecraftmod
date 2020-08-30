@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kraskaskas_mod:blocks/rubyoretexture",
+    "up": "kraskaskas_mod:blocks/rubyoretexture",
+    "north": "kraskaskas_mod:blocks/rubyoretexture",
+    "east": "kraskaskas_mod:blocks/rubyoretexture",
+    "south": "kraskaskas_mod:blocks/rubyoretexture",
+    "west": "kraskaskas_mod:blocks/rubyoretexture",
+    "particle": "kraskaskas_mod:blocks/rubyoretexture"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "kraskaskas_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "kraskaskas_mod:ruby",
+    "count": 1
+  }
+}

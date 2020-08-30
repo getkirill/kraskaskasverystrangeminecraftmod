@@ -1,0 +1,137 @@
+[30Aug2020 17:18:05.472] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmluserdevclient, --fml.mcpVersion, 20200515.085601, --fml.mcVersion, 1.15.2, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 31.2.0, --version, MOD_DEV, --assetIndex, 1.15, --assetsDir, C:\Users\alexe\.mcreator\gradle\caches\forge_gradle\assets, --username, Dev, --accessToken, ????????, --userProperties, {}]
+[30Aug2020 17:18:05.481] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 5.1.2+70+master.2845bb9 starting: java version 1.8.0_252 by BellSoft
+[30Aug2020 17:18:06.129] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[30Aug2020 17:18:10.135] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevclient' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\alexe\.mcreator\gradle\caches\forge_gradle\assets, --assetIndex, 1.15, --username, Dev, --accessToken, ????????, --userProperties, {}]
+[30Aug2020 17:18:15.747] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[30Aug2020 17:18:43.279] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 build 10
+[30Aug2020 17:18:49.488] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 31.2.0, for MC 1.15.2 with MCP 20200515.085601
+[30Aug2020 17:18:49.488] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v31.2.0 Initialized
+[30Aug2020 17:19:01.730] [Render thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[30Aug2020 17:19:02.167] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources
+[30Aug2020 17:19:02.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[30Aug2020 17:19:05.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 31.2.0 Target: null
+[30Aug2020 17:19:21.439] [Render thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[30Aug2020 17:19:21.441] [Render thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[30Aug2020 17:19:21.782] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x512x2 minecraft:textures/atlas/blocks.png-atlas
+[30Aug2020 17:19:21.880] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x2 minecraft:textures/atlas/signs.png-atlas
+[30Aug2020 17:19:21.881] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x2 minecraft:textures/atlas/banner_patterns.png-atlas
+[30Aug2020 17:19:21.883] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x2 minecraft:textures/atlas/shield_patterns.png-atlas
+[30Aug2020 17:19:21.885] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x2 minecraft:textures/atlas/chest.png-atlas
+[30Aug2020 17:19:21.886] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x2 minecraft:textures/atlas/beds.png-atlas
+[30Aug2020 17:19:21.886] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x2 minecraft:textures/atlas/shulker_boxes.png-atlas
+[30Aug2020 17:19:23.416] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[30Aug2020 17:19:23.418] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[30Aug2020 17:19:23.419] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[30Aug2020 17:19:24.334] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[30Aug2020 17:19:51.582] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[30Aug2020 17:19:51.583] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Aug2020 17:19:51.584] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Aug2020 17:19:51.585] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[30Aug2020 17:19:51.587] [Render thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Aug2020 17:19:51.874] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.15.2
+[30Aug2020 17:19:51.874] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Generating keypair
+[30Aug2020 17:19:52.294] [Server thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this SERVER instance
+[30Aug2020 17:19:52.319] [Server thread/INFO] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Found a missing id from the world kraskaskas_mod:diamond_stick
+[30Aug2020 17:19:52.335] [Server thread/INFO] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Found a missing id from the world kraskaskas_mod:ruby_armor_boots
+[30Aug2020 17:19:52.336] [Server thread/INFO] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Found a missing id from the world kraskaskas_mod:ruby_armor_chestplate
+[30Aug2020 17:19:52.336] [Server thread/INFO] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Found a missing id from the world kraskaskas_mod:ruby_armor_helmet
+[30Aug2020 17:19:52.336] [Server thread/INFO] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Found a missing id from the world kraskaskas_mod:ruby_armor_leggings
+[30Aug2020 17:19:52.337] [Server thread/INFO] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Found a missing id from the world kraskaskas_mod:ruby_tool
+[30Aug2020 17:19:52.377] [Server thread/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
+	kraskaskas_mod:ruby_armor_boots: 888
+	kraskaskas_mod:ruby_armor_chestplate: 886
+	kraskaskas_mod:ruby_armor_leggings: 887
+	kraskaskas_mod:diamond_stick: 890
+	kraskaskas_mod:ruby_armor_helmet: 885
+	kraskaskas_mod:ruby_tool: 889
+
+[30Aug2020 17:19:56.871] [Server thread/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[30Aug2020 17:19:56.877] [Server thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: kraskaskas_mod:ruby_tool_pack_axe Expected: 889 Got: 894
+[30Aug2020 17:19:56.877] [Server thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: kraskaskas_mod:ruby_tool_pack_hoe Expected: 892 Got: 895
+[30Aug2020 17:19:56.878] [Server thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: kraskaskas_mod:ruby_tool_pack_shovel Expected: 891 Got: 896
+[30Aug2020 17:19:56.878] [Server thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: kraskaskas_mod:ruby_tool_pack_sword Expected: 890 Got: 897
+[30Aug2020 17:19:56.878] [Server thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: kraskaskas_mod:ruby_armor_armor_boots Expected: 896 Got: 898
+[30Aug2020 17:19:56.878] [Server thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: kraskaskas_mod:ruby_tool_pack_pickaxe Expected: 888 Got: 899
+[30Aug2020 17:19:56.879] [Server thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: kraskaskas_mod:ruby_armor_armor_helmet Expected: 893 Got: 900
+[30Aug2020 17:19:56.879] [Server thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: kraskaskas_mod:ruby_armor_armor_chestplate Expected: 894 Got: 901
+[30Aug2020 17:19:56.879] [Server thread/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry Item: Object did not get ID it asked for. Name: kraskaskas_mod:ruby_armor_armor_leggings Expected: 895 Got: 902
+[30Aug2020 17:19:57.224] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.15.2-31.2.0_mapped_snapshot_20200514-1.15.1-recomp.jar, main
+[30Aug2020 17:20:00.568] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[30Aug2020 17:20:04.597] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 826 advancements
+[30Aug2020 17:20:05.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Aug2020 17:20:08.291] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Aug2020 17:20:08.291] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Aug2020 17:20:08.292] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Aug2020 17:20:08.295] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Aug2020 17:20:08.295] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Aug2020 17:20:08.295] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Aug2020 17:20:08.912] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Aug2020 17:20:15.861] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:15.863] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:15.863] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:15.863] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:15.863] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:15.863] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:15.863] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:15.931] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:15.931] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:15.932] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:15.932] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:15.932] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:15.940] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:15.940] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:16.358] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:16.955] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:17.316] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:17.795] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:18.362] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:18.787] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:19.339] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[30Aug2020 17:20:19.806] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
+[30Aug2020 17:20:20.303] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[30Aug2020 17:20:20.793] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[30Aug2020 17:20:21.300] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
+[30Aug2020 17:20:21.833] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
+[30Aug2020 17:20:22.707] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
+[30Aug2020 17:20:22.735] [Render thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 16950 ms
+[30Aug2020 17:20:23.535] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Aug2020 17:20:23.538] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Aug2020 17:20:23.542] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 4, from 10
+[30Aug2020 17:20:27.896] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
+[30Aug2020 17:20:28.001] [Server thread/WARN] [net.minecraft.stats.ServerStatisticsManager/]: Invalid statistic in .\saves\ModTest\stats\380df991-f603-344c-a090-369bad2a924a.json: Don't know what kraskaskas_mod:ruby_tool is
+[30Aug2020 17:20:28.160] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@9c53bc1
+[30Aug2020 17:20:28.190] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: kraskaskas_mod:ruby_armor_boots_recipe removed now.
+[30Aug2020 17:20:28.192] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: kraskaskas_mod:ruby_armor_leggins_recipe removed now.
+[30Aug2020 17:20:28.212] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: kraskaskas_mod:ruby_tool_upgrade_recipe removed now.
+[30Aug2020 17:20:28.217] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: kraskaskas_mod:ruby_armor_helmet_recipe removed now.
+[30Aug2020 17:20:28.221] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: kraskaskas_mod:ruby_armor_body_recipe removed now.
+[30Aug2020 17:20:28.221] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: kraskaskas_mod:ruby_tool_recipe removed now.
+[30Aug2020 17:20:28.228] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipeBook/]: Tried to load unrecognized recipe: kraskaskas_mod:diamond_stick_recipe removed now.
+[30Aug2020 17:20:28.233] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dev[local:E:fcb90f91] logged in with entity id 115 at (-61.19341948715541, 67.0, -177.0876602494889)
+[30Aug2020 17:20:28.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[30Aug2020 17:20:30.056] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[30Aug2020 17:20:30.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ModTest'/minecraft:overworld
+[30Aug2020 17:20:30.524] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 789 advancements
+[30Aug2020 17:20:32.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3754ms or 75 ticks behind
+[30Aug2020 17:21:01.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Unlocked 780 recipes for Dev]
+[30Aug2020 17:21:01.736] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Unlocked 780 recipes for Dev
+[30Aug2020 17:21:27.180] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[30Aug2020 17:21:27.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ModTest'/minecraft:overworld
+[30Aug2020 17:23:44.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[30Aug2020 17:23:44.331] [Render thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Set own game mode to Creative Mode
+[30Aug2020 17:23:45.480] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[30Aug2020 17:23:45.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ModTest'/minecraft:overworld
+[30Aug2020 17:25:37.179] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[30Aug2020 17:25:37.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ModTest'/minecraft:overworld
+[30Aug2020 17:29:47.581] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[30Aug2020 17:29:47.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ModTest'/minecraft:overworld
+[30Aug2020 17:29:48.388] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Dev lost connection: Disconnected
+[30Aug2020 17:29:48.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[30Aug2020 17:29:48.412] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[30Aug2020 17:29:48.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Aug2020 17:29:48.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Aug2020 17:29:48.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Aug2020 17:29:48.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ModTest'/minecraft:overworld
+[30Aug2020 17:29:48.609] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (ModTest): All chunks are saved
+[30Aug2020 17:29:48.630] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (ModTest): All chunks are saved
+[30Aug2020 17:29:49.607] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
